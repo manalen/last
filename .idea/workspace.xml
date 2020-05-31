@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/cabmed/src/Compenents/PatientService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cabmed/src/Compenents/PatientService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/webapp/cabmed" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1c3d686rs6wPO6Pstr1e6JAyUXg" />
