@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="">
+    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="last 2.0000rdrds">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,12 +78,35 @@
       <option name="presentableId" value="Default" />
       <updated>1589761032270</updated>
     </task>
+    <task id="LOCAL-00001" summary="last 2.00">
+      <created>1590956951557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590956951557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last 2.00">
+      <created>1590956988800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590956988800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="last 2.0000rdrds">
+      <created>1590957115280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590957115280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last 2.0" />
     <MESSAGE value="last 2.00" />
-    <option name="LAST_COMMIT_MESSAGE" value="last 2.00" />
+    <MESSAGE value="last 2.0000rdrds" />
+    <option name="LAST_COMMIT_MESSAGE" value="last 2.0000rdrds" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1589842482171">
@@ -102,10 +125,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589842712754" />
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590957098965">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590957909134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590957098965" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590957909134" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589931812251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
