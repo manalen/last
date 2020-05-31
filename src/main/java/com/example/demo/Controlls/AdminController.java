@@ -40,13 +40,32 @@ public class AdminController {
     public List<Patient> showallpatient() {
         return patientRepo.findAll();
     }
-    @GetMapping("/admin/showallmed")
-    public List<Medecin> showallmed(){
-        return medecinRepo.findAll();
-    }
 
     @PostMapping("/admin/addmed")
     public Medecin createMedecin(  @RequestBody Medecin medecin) {
         return medecinRepo.save(medecin);
     }
+    @CrossOrigin(origins = { "http://localhost:3000"})
+    @GetMapping("/admin/showallmed")
+    public List<Medecin> showallmed(){
+        return medecinRepo.findAll();
+    }
+
+    @CrossOrigin(origins = { "http://localhost:3000"})
+
+    @GetMapping("/admin/showmedbycin/{cin}")
+    public List<Medecin> showmedbycin(@PathVariable String cin) {
+        return medecinRepo.findMedByCin(cin);
+    }
+
+    @CrossOrigin(origins = { "http://localhost:3000"})
+    @GetMapping("/admin/showmedbyspe/{specialite}")
+    public List<Medecin> showmedbyspe(@PathVariable String specialite){
+        return medecinRepo.findMedBySpecialite(specialite);
+    }
+
+    @CrossOrigin(origins = { "http://localhost:3000"})
+    @GetMapping("/admin/showMedbynomprenom/{nom}/{prenom}")
+    public List<Medecin> showMedbynomprenom(@PathVariable String nom , @PathVariable String prenom) {
+        return medecinRepo.findMedByNomandPrenom(nom,prenom);
 }
