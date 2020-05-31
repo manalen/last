@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jaka" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -97,10 +102,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589842712754" />
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590956978291">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590957098965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590956978291" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590957098965" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589931812251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -129,10 +134,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590953880880" />
-    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590938322741">
+    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590957083308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590938322741" />
+    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590957083308" />
     <state x="509" y="0" width="736" height="728" key="find.popup" timestamp="1589764650101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
