@@ -51,12 +51,7 @@ public class AdminController {
         return medecinRepo.findAll();
     }
 
-    @CrossOrigin(origins = { "http://localhost:3000"})
-
-    @GetMapping("/admin/showmedbycin/{cin}")
-    public List<Medecin> showmedbycin(@PathVariable String cin) {
-        return medecinRepo.findMedByCin(cin);
-    }
+    
 
     @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/admin/showmedbyspe/{specialite}")
@@ -68,4 +63,5 @@ public class AdminController {
     @GetMapping("/admin/showMedbynomprenom/{nom}/{prenom}")
     public List<Medecin> showMedbynomprenom(@PathVariable String nom , @PathVariable String prenom) {
         return medecinRepo.findMedByNomandPrenom(nom,prenom);
+}
 }

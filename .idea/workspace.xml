@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="last 2.0000rdrds">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/classes/Analyse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/classes/Analyse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +29,8 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1c3d686rs6wPO6Pstr1e6JAyUXg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yas/sp" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -99,10 +106,41 @@
       <option name="project" value="LOCAL" />
       <updated>1590957115280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="last 2.0000rdrds">
+      <created>1590957947532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590957947532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="last 2.0000rdrds">
+      <created>1590957961308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590957961308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/src/main/webapp/cabmed" />
+    </ignored-roots>
     <MESSAGE value="last 2.0" />
     <MESSAGE value="last 2.00" />
     <MESSAGE value="last 2.0000rdrds" />
@@ -125,46 +163,62 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589842712754" />
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590957946402">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590962703311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590957946402" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590962703311" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1590962937822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1590962937822" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589931812251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589931812251" />
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1590510945865">
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1590964198399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590510945865" />
-    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1590510945865">
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590964198399" />
+    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1590964198398">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590510945865" />
-    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1590510945865">
+    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590964198398" />
+    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1590964198398">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590510945865" />
-    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1590510945865">
+    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590964198398" />
+    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1590964198399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590510945865" />
+    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590964198399" />
     <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1589821103088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1589821103088" />
-    <state x="386" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590953880880">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1590971316563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="386" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590953880880" />
-    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590957083308">
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590971316563" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1590962923836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590957083308" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590962923836" />
+    <state x="386" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590970355359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590970355359" />
+    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590962976914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590962976914" />
     <state x="509" y="0" width="736" height="728" key="find.popup" timestamp="1589764650101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="0" width="736" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589764650101" />
+    <state x="392" y="167" key="git4idea.merge.GitPullDialog" timestamp="1590962992915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="167" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1590962992915" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1590510612785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
