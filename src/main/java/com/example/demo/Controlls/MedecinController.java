@@ -27,7 +27,7 @@ public class MedecinController {
     private ConsulRepo consulRepo;
     @Autowired
     private PatientRepo patientRepo;
-
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showallconsu")
     public List<Consultation> showallconsu() {
         return consulRepo.findAll();
@@ -42,35 +42,38 @@ public class MedecinController {
         }).orElseThrow(() -> new ResourceNotFoundException("medecin id " + medid + " not found"));
 
     }
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showallpatient")
-    public List<Patient> showallpatient() {
-        System.out.println("hello");
-        return patientRepo.findAll();
+    public List<Patient> showallpatient() {return patientRepo.findAll();
     }
-
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showpatientbyid/{id}")
     public Patient showpatientbyid(@PathVariable(value="id") int id) {
         return patientRepo.findById(id).get();
     }
 
-    @GetMapping("/med/showapatientbyname/{nom}")
-    public List<Patient> showpatientbyname(@PathVariable(value="nom") String nom ) {
+    @CrossOrigin(origins = { "http://localhost:3000"})
+    @GetMapping("/med/showapatientbyname/{nom}/{prenom}")
+    public List<Patient> showpatientbyname(@PathVariable(value="nom") String nom) {
         return patientRepo.findByNom(nom);
     }
 
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showpatientbycin/{cin}")
     public List<Patient> showpatientbycin(@PathVariable String cin) {
         return patientRepo.findByCin(cin);
     }
 
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showpatientbynum/{numserie}")
     public List<Patient> showpatientbynum(@PathVariable int numserie) {
         return patientRepo.findByNumserie(numserie);
     }
+
+    @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/med/showpatientbynomprenom/{nom}/{prenom}")
     public List<Patient> showbynomprenom(@PathVariable String nom , @PathVariable String prenom) {
         return patientRepo.findPatientByNomandPrenom(nom,prenom);
     }
-
 
 }
