@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="last 2.000085">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/precache-manifest.6021228a34bc4e6ac3829407a412e0d2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/main.c6184c1a.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/main.c6184c1a.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590971373858</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="last 2.000085">
+      <created>1591025848226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591025848226</updated>
+    </task>
+    <task id="LOCAL-00008" summary="last 2.000085">
+      <created>1591025901259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591025901259</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +165,8 @@
     <MESSAGE value="last 2.0" />
     <MESSAGE value="last 2.00" />
     <MESSAGE value="last 2.0000rdrds" />
-    <option name="LAST_COMMIT_MESSAGE" value="last 2.0000rdrds" />
+    <MESSAGE value="last 2.000085" />
+    <option name="LAST_COMMIT_MESSAGE" value="last 2.000085" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1589842482171">
@@ -194,10 +185,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589842712754" />
-    <state x="29" y="0" key="CommitChangelistDialog2" timestamp="1591025278977">
+    <state x="29" y="0" key="CommitChangelistDialog2" timestamp="1591025907703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="29" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591025278977" />
+    <state x="29" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591025907703" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1590962937822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
