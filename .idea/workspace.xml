@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="last 2.0000rdrds">
+    <list default="true" id="c44fa9bc-4b9f-4f16-abe6-5cd872adc78e" name="Default Changelist" comment="last 2.000085">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlls/AdminController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repos/MedecinRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlls/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/classes/Analyse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/classes/Analyse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repos/MedecinRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/precache-manifest.6021228a34bc4e6ac3829407a412e0d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/2.ac5d19fb.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/main.c6184c1a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/static/js/main.c6184c1a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +44,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="gngfhfgh" />
         <option value="jaka" />
       </list>
     </option>
@@ -33,15 +53,18 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1c3d686rs6wPO6Pstr1e6JAyUXg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yas/sp" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/security-service-master" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -120,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590957961308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="last 2.0000rdrds">
+      <created>1590971373858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590971373858</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +167,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/src/main/webapp/cabmed" />
@@ -163,34 +194,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1589842712754" />
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1590962703311">
+    <state x="29" y="0" key="CommitChangelistDialog2" timestamp="1591025278977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590962703311" />
+    <state x="29" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591025278977" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1590962937822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1590962937822" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589931812251">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1590979800543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589931812251" />
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1590964198399">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590979800543" />
+    <state width="1323" height="305" key="GridCell.Tab.0.bottom" timestamp="1591025216970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590964198399" />
-    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1590964198398">
+    <state width="1323" height="305" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591025216970" />
+    <state width="1323" height="305" key="GridCell.Tab.0.center" timestamp="1591025216970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590964198398" />
-    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1590964198398">
+    <state width="1323" height="305" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591025216970" />
+    <state width="1323" height="305" key="GridCell.Tab.0.left" timestamp="1591025216969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590964198398" />
-    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1590964198399">
+    <state width="1323" height="305" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591025216969" />
+    <state width="1323" height="305" key="GridCell.Tab.0.right" timestamp="1591025216970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590964198399" />
+    <state width="1323" height="305" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591025216970" />
     <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1589821103088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,14 +230,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590971316563" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1590962923836">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1591025057216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590962923836" />
-    <state x="386" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590970355359">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591025057216" />
+    <state x="386" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1591021503187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="386" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590970355359" />
+    <state x="386" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591021503187" />
     <state x="489" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590962976914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -219,9 +250,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="167" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1590962992915" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1590510612785">
+    <state x="495" y="243" key="git4idea.rebase.GitRebaseDialog" timestamp="1591025121622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590510612785" />
+    <state x="495" y="243" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1591025121622" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1591023944827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591023944827" />
   </component>
 </project>

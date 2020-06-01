@@ -56,7 +56,7 @@ public class AdminController {
     @CrossOrigin(origins = { "http://localhost:3000"})
     @GetMapping("/admin/showmedbyspe/{specialite}")
     public List<Medecin> showmedbyspe(@PathVariable String specialite){
-        return medecinRepo.findMedBySpecialite(specialite);
+        return medecinRepo.findMedBySpécialité(specialite);
     }
 
     @CrossOrigin(origins = { "http://localhost:3000"})
